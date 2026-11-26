@@ -12,6 +12,7 @@ Welcome to my academic webpage! I'm a researcher at the [Technology Innovation I
 
 **News**
 -
+- 26/11/26: New presentation: [Can we understand AI mathematically?](https://melaseddik.github.io/files/slides/Can_we_understand_AI_mathematically_presentation/index.html)
 - 23/11/23: [Talk](https://melaseddik.github.io/talks/2023-11-23-seminar/) on random matrix theory for linear generative models at [Khalifa University](https://www.ku.ac.ae/).
 - 08/05/23: [Learning from Low Rank Tensor Data: A Random Tensor Theory Perspective](https://melaseddik.github.io/files/uai2023.pdf) got accepted for oral presentation at [UAI 2023 conference](https://www.auai.org/uai2023/).
 - 19/04/23: Talk about [spike recovery from random tensors](http://math.univ-lyon1.fr/~vignes/pmwiki/Docs/TJC/TJC-20230419-Seddik.pdf) at the [Tensor Journal Club](http://math.univ-lyon1.fr/homes-www/vignes/TJC/Now).
